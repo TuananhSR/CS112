@@ -1,0 +1,23 @@
+		BÀI TOÁN ĐỒNG TIỀN
+
+Yêu cầu là hãy lựa chọn các đồng tiền sao cho số lượng đồng tiền là nhỏ nhất có thể và tổng mệnh giá của các đồng tiền này bằng với một lượng tiền cho trước.
+
+Mệnh giá các đồng tiền là 10, 8, 5, 1
+Số tiền cần chọn là 24
+_________________________________________
+
+		BÀI TOÁN CÁI TÚI
+
+Cho một cái túi có tải trọng tối đa là 29.
+Ta có 4 loại đồ vật với các giá trị tương ứng như sau:
+
+Đồ vật:		A	B	C	D
+Trọng lượng:	10	15	7	3
+Giá trị: 		50	45	14	12
+			
+Hãy chọn số lượng đồ vật để phù hợp với balô và giá trị lấy được là lớn nhất.
+
+_________________________________________
+
+Dùng thuật toán tham lam giải quyết các bài toán trên. Lời giải đưa ra đã là tối ưu chưa ? Giải thích
+	
